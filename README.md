@@ -126,6 +126,7 @@ temple.html
 </html>
 ```
 ## OUTPUT
+![MAP](https://github.com/user-attachments/assets/2f45f0de-e9c4-4dc5-b02a-d5ce18140ed6)
 
 
 ![alt text](1.png)
